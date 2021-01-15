@@ -1,3 +1,3 @@
 # challenge-card-game-becode
 
-Nice-features version
+Nice-to-have features version
